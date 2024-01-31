@@ -1,3 +1,10 @@
+## Banco de Dados
+Foi testadono mysqlLite do Django/Pycharm e com MySQL através do XAMPP
+
+##### Programa
+Projeto Criado através do PyCharm
+
+## Através do menu
 Crie um novo projeto do tipo Django
 
 Comandos:
