@@ -22,7 +22,7 @@ pip install django==4.2.9
 django-admin startapp cursos
 
 ## Arquivos alterados
-<b>projeto/settings.py</b>
+**projeto/settings.py**
 import os ## Importado para funcionamento das alterações
 from pathlib import Path ## Importado para funcionamento das alterações
 
