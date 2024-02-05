@@ -5,9 +5,10 @@ Foi testadono mysqlLite do Django/Pycharm e com MySQL através do XAMPP
 Projeto Criado através do PyCharm 
 
 ## Através do menu
-Crie um novo projeto do tipo Django
+Crie um novo projeto do tipo Django pelo PyCharm Professional
 <img src="https://github.com/lucasrm1981/CRUD_Django/blob/master/CRUD_Django.png">
-
+Ou utilize o PyCharm Comunnity
+<a href="https://forum.lksistemas.com.br/criando-o-primeiro-projeto-com-django-atraves-do-pycharm-comunnity/">PyCharm Comunnity</a>
 ## Adicione ao interpretado o Django
 <img src="https://github.com/lucasrm1981/CRUD_Django/blob/master/CRUD_Django-02.png">
 
