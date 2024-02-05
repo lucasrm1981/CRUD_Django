@@ -2,7 +2,7 @@
 Foi testadono mysqlLite do Django/Pycharm e com MySQL através do XAMPP
 
 ##### Programa
-Projeto Criado através do PyCharm
+Projeto Criado através do PyCharm 
 
 ## Através do menu
 Crie um novo projeto do tipo Django
@@ -13,13 +13,16 @@ Crie um novo projeto do tipo Django
 
 Comandos:
 ### Atualização do pip Python
-pip install --upgrade pip
+$ pip install --upgrade pip
 
 ### Instalação do Django
-pip install django==4.2.9
+$ pip install Django
+
+## Criação do Projeto
+$ django-admin startproject CRUD_Django
 
 ## Criação da Aplicação
-django-admin startapp cursos
+$ django-admin startapp cursos
 
 ## Arquivos alterados
 **projeto/settings.py**
@@ -89,13 +92,13 @@ class AvaliacaoAdmin(admin.ModelAdmin):
     list_display = ('curso', 'nome', 'email','avaliacao', 'criacao', 'atualizacao', 'ativo')
 
 ### Criação do arquivo das tabelas
-python manage.py makemigrations
+$ python manage.py makemigrations
 
 ### Instalação das bases e Tabelas
-python manage.py migrate
+$ python manage.py migrate
 
 ## Criação do usuário no Pyhon para o Banco
-python manage.py createsuperuser
+$ python manage.py createsuperuser
 
 ## Rodando o servidor
-python manage.py runserver
+$ python manage.py runserver
