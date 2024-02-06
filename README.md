@@ -1,4 +1,3 @@
-Dúvidas de como 
 ## Banco de Dados
 Foi testadono mysqlLite do Django/Pycharm e com MySQL através do XAMPP
 
@@ -8,12 +7,12 @@ Projeto Criado através do PyCharm Professional
 ## Através do menu
 Crie um novo projeto do tipo Django pelo PyCharm Professional
 <img src="https://github.com/lucasrm1981/CRUD_Django/blob/master/CRUD_Django.png"><br/>
-Caso utilize o PyCharm Comunnity Crie atravé do Link disponibilizado!
-<a href="https://forum.lksistemas.com.br/criando-o-primeiro-projeto-com-django-atraves-do-pycharm-comunnity/">Criando seu Primeiro projeto pelo PyCharm Comunnity</a>
+<h3>Caso utilize o PyCharm Comunnity Crie atravé do Link disponibilizado!<br/>
+<a href="https://forum.lksistemas.com.br/criando-o-primeiro-projeto-com-django-atraves-do-pycharm-comunnity/">Criando seu Primeiro projeto pelo PyCharm Community</a></h3>
 ## Adicione ao interpretador o Django
 <img src="https://github.com/lucasrm1981/CRUD_Django/blob/master/CRUD_Django-02.png">
 
-Comandos:
+**Comandos:**
 ### Atualização do pip Python
 ```pip install --upgrade pip```
 
