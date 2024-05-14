@@ -43,3 +43,6 @@ Crie um novo projeto do tipo Django pelo PyCharm Professional
 
 ## Rodando o servidor
 ```python manage.py runserver```
+
+## Custom Fieds Data 
+<a href='https://docs.djangoproject.com/en/5.0/ref/forms/fields/'>Custom Fields</a>
